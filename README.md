@@ -1,3 +1,4 @@
-# vimrc
+# homerc
 
-ln -s ./vimrc/vimrc ./.vimrc
+ln -s ./homerc/vimrc ~/.vimrc
+ln -s ./homerc/bashrc ~/.bashrc
